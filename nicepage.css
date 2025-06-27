@@ -45861,16 +45861,20 @@ a.u-link.u-text-hover-color-var:hover {
   }
 }
 
-
+@media (max-width: 767px) {
+  .u-header .u-image-1 {
+    margin-right: auto;
+  }
+}
 
 .u-footer .u-sheet-1 {
-  min-height: 660px;
+  min-height: 661px;
 }
 
 .u-footer .u-image-1 {
   width: 250px;
   height: 250px;
-  margin: 50px auto 0 124px;
+  margin: 49px auto 0 124px;
 }
 
 .u-footer .u-logo-image-1 {
@@ -45880,7 +45884,7 @@ a.u-link.u-text-hover-color-var:hover {
 
 .u-footer .u-form-1 {
   height: 421px;
-  margin: -181px 0 0 570px;
+  margin: -180px 0 0 570px;
 }
 
 .u-footer .u-btn-1 {
@@ -45915,7 +45919,7 @@ a.u-link.u-text-hover-color-var:hover {
   }
 
   .u-footer .u-form-1 {
-    margin-top: -181px;
+    margin-top: -180px;
     margin-left: 370px;
   }
 
@@ -45950,23 +45954,39 @@ a.u-link.u-text-hover-color-var:hover {
   }
 }
 @media (max-width: 767px) {
-  .u-footer .u-image-1 {
-    margin-left: 28px;
-  }
-
-  .u-footer .u-form-1 {
-    margin-left: 194px;
-  }
-
-  .u-footer .u-text-1 {
-    margin-right: 183px;
-  }
-}
-@media (max-width: 575px) {
   .u-footer .u-sheet-1 {
     min-height: 1000px;
   }
 
+  .u-footer .u-image-1 {
+    width: 126px;
+    height: 126px;
+    margin-top: 112px;
+    margin-left: 67px;
+  }
+
+  .u-footer .u-form-1 {
+    height: 422px;
+    width: 520px;
+    margin-top: 492px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-footer .u-text-1 {
+    width: 259px;
+    margin-top: -719px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-footer .u-image-2 {
+    margin-top: -387px;
+    margin-right: auto;
+    margin-bottom: 60px;
+  }
+}
+@media (max-width: 575px) {
   .u-footer .u-image-1 {
     width: 92px;
     height: 92px;
@@ -45978,17 +45998,16 @@ a.u-link.u-text-hover-color-var:hover {
     margin-top: 534px;
     margin-right: initial;
     margin-left: initial;
+    width: auto;
   }
 
   .u-footer .u-text-1 {
+    width: 259px;
     margin-top: -727px;
-    margin-left: 0;
-    margin-right: 0;
   }
 
   .u-footer .u-image-2 {
     margin-top: -402px;
-    margin-right: auto;
     margin-bottom: 0;
   }
 }
