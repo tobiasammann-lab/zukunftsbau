@@ -88,52 +88,7 @@
                 return;
             }
 
-            (function (grecaptcha, sitekey, actions) {
-                var recaptcha = {
-                    execute: function (action, submitFormCb) {
-                        if (typeof grecaptcha === 'undefined' || typeof grecaptcha.execute !== 'function') {
-                            showRecaptchaError('reCAPTCHA script failed to load.');
-                            return;
-                        }
-
-                        grecaptcha.execute(sitekey, {action: action}).then((token) => {
-                            if (!token) {
-                                throw new Error('Empty token received from reCAPTCHA');
-                            }
-
-                            var forms = document.getElementsByTagName('form');
-
-                            for (var i = 0; i < forms.length; i++) {
-                                var response = forms[i].querySelector('[name="recaptchaResponse"]');
-
-                                if (!response) {
-                                    response = document.createElement('input');
-                                    response.setAttribute('type', 'hidden');
-                                    response.setAttribute('name', 'recaptchaResponse');
-                                    forms[i].appendChild(response);
-                                }
-
-                                response.value = token;
-                            }
-
-                            submitFormCb();
-                        }).catch((e) => {
-                            showRecaptchaError(e.message);
-                        });
-                    },
-
-                    executeContact: function (submitFormCb) {
-                        recaptcha.execute(actions['contact'], submitFormCb);
-                    }
-                };
-
-                window.recaptchaObject = recaptcha;
-            })(
-                grecaptcha,
-                
-                '6Lcpx28rAAAAAMIW4jCeCOiIBZvgVe68XKAyLu-K',
-                {'contact': 'contact'}
-            );
+            
         });
     </script>
 <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
