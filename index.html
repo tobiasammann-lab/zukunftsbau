@@ -42,38 +42,55 @@
     <meta property="og:type" content="website">
 
     <link rel="canonical" href="/">
-  <meta name="referrer" content="origin"><script>
-    function gdprConfirmed() {
-        return true;
-    }
-    function dynamicLoadScript() {
-        var script = document.createElement('script');
-        script.src = 'https://www.google.com/recaptcha/api.js?render=6Lcpx28rAAAAAMIW4jCeCOiIBZvgVe68XKAyLu-K';
-        script.async = true;
-        document.body.appendChild(script);
-        script.onload = function() {
-            let event = new CustomEvent("recaptchaLoaded");
-            document.dispatchEvent(event);
-        };
-    }
-    function showRecaptchaError(error) {
-        error = error || '';
-        var formError = document.querySelector('.u-form-send-error');
+  <meta name="referrer" content="origin">
+	
+	<script>
+  function gdprConfirmed() {
+    return true; // Passe dies an, wenn du echte Cookie-Zustimmung einbauen willst
+  }
 
-        if (formError) {
-            formError.innerText = 'Fehler des Website-Besitzers: ' + error.replace(/:[\s\S]*/, '');
-            formError.style.display = 'block';
-        }
+  function dynamicLoadScript() {
+    var script = document.createElement('script');
+    script.src = 'https://www.google.com/recaptcha/api.js?render=6Lcpx28rAAAAAMIW4jCeCOiIBZvgVe68XKAyLu-K';
+    script.async = true;
+    document.body.appendChild(script);
 
-        console.error('Error in grecaptcha: ', error);
+    script.onload = function () {
+      let event = new CustomEvent("recaptchaLoaded");
+      document.dispatchEvent(event);
+    };
+  }
+
+  function showRecaptchaError(error) {
+    error = error || '';
+    var formError = document.querySelector('.u-form-send-error');
+    if (formError) {
+      formError.innerText = 'Fehler des Website-Besitzers: ' + error.replace(/:[\s\S]*/, '');
+      formError.style.display = 'block';
     }
-    document.addEventListener('DOMContentLoaded', function () {
-        var confirmButton = document.querySelector('.u-cookies-consent .u-button-confirm');
-        if (confirmButton) {
-            confirmButton.onclick = dynamicLoadScript;
+    console.error('Error in grecaptcha: ', error);
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    // Nur laden, wenn Consent erteilt wurde – bei Bedarf anpassen
+    if (gdprConfirmed()) {
+      dynamicLoadScript();
+    }
+  });
+
+  document.addEventListener("recaptchaLoaded", function () {
+    if (!gdprConfirmed()) return;
+
+    grecaptcha.ready(function () {
+      grecaptcha.execute('6Lcpx28rAAAAAMIW4jCeCOiIBZvgVe68XKAyLu-K', { action: 'contact' }).then(function (token) {
+        let input = document.querySelector('input[name="recaptchaResponse"]');
+        if (input) {
+          input.value = token;
         }
+      }, showRecaptchaError);
     });
-    </script>
+  });
+</script>
     <script>
         document.addEventListener("DOMContentLoaded", function () {
     dynamicLoadScript();
