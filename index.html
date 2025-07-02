@@ -30,7 +30,44 @@
 		"name": "WebSite6530960",
 		"url": "/",
 		"logo": "images/LogoZukunftsbau.svg"
+
+	    
 }</script>
+	<style>
+  .custom-menu-icon {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 9999;
+    transition: transform 0.5s ease, opacity 0.5s ease;
+  }
+
+  .custom-menu-icon.scrolled {
+    transform: translateX(120px); /* Desktop */
+  }
+
+  @media (max-width: 991px) {
+    .custom-menu-icon {
+      top: 15px;
+      right: 15px;
+    }
+
+    .custom-menu-icon.scrolled {
+      transform: translateX(70px); /* Tablet */
+    }
+  }
+
+  @media (max-width: 575px) {
+    .custom-menu-icon {
+      top: 10px;
+      right: 10px;
+    }
+
+    .custom-menu-icon.scrolled {
+      transform: translateX(40px); /* Smartphone */
+    }
+  }
+</style>
     <meta name="theme-color" content="#d8dfd0">
     <meta property="og:title" content="Zukunftsbau – Nachhaltig Bauen für morgen">
     <meta property="og:description" content="Zukunftsbau entwickelt innovative und nachhaltige Bauprojekte in der Schweiz. Entdecke unsere Vision vom Bauen der Zukunft." />
@@ -135,6 +172,24 @@
             );
         });
     </script>
+
+	<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const menuIcon = document.querySelector('.menu-collapse');
+    if (!menuIcon) return;
+
+    // Klasse hinzufügen für gezieltes Styling
+    menuIcon.classList.add("custom-menu-icon");
+
+    window.addEventListener("scroll", function () {
+      if (window.scrollY > 100) {
+        menuIcon.classList.add("scrolled");
+      } else {
+        menuIcon.classList.remove("scrolled");
+      }
+    });
+  });
+</script>
 <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body data-home-page="https://website6530960.nicepage.io/Zukunftsbau.html?version=cc190c8e-a2eb-bde4-cc52-cfe4e1871213" data-home-page-title="Zukunftsbau" data-path-to-root="./" data-include-products="false" class="u-body u-overlap u-xl-mode" data-lang="de"><header class="u-clearfix u-header u-sticky u-sticky-9fea" id="start"><div class="u-clearfix u-sheet u-sheet-1">
         <nav class="u-align-center u-menu u-menu-hamburger u-menu-open-right u-offcanvas u-menu-1" role="navigation" data-responsive-from="XL" data-custom-animation="{&quot;animation&quot;:{&quot;XXL&quot;:{&quot;steps&quot;:[],&quot;hidden&quot;:false,&quot;start&quot;:{&quot;at&quot;:&quot;bottom&quot;,&quot;off&quot;:0},&quot;end&quot;:{&quot;at&quot;:&quot;top&quot;,&quot;off&quot;:0}},&quot;XL&quot;:{&quot;steps&quot;:[{&quot;dist&quot;:0.5,&quot;skip&quot;:0,&quot;blur&quot;:0,&quot;sticky&quot;:false,&quot;fixed&quot;:true,&quot;mx&quot;:&quot;530&quot;,&quot;my&quot;:&quot;295&quot;,&quot;op&quot;:1,&quot;rot&quot;:0,&quot;sx&quot;:1,&quot;sy&quot;:1,&quot;bgy&quot;:0}],&quot;hidden&quot;:false,&quot;start&quot;:{&quot;at&quot;:&quot;bottom&quot;,&quot;off&quot;:0},&quot;end&quot;:{&quot;at&quot;:&quot;top&quot;,&quot;off&quot;:0}},&quot;LG&quot;:{&quot;steps&quot;:[],&quot;hidden&quot;:false,&quot;start&quot;:{&quot;at&quot;:&quot;bottom&quot;,&quot;off&quot;:0},&quot;end&quot;:{&quot;at&quot;:&quot;top&quot;,&quot;off&quot;:0}},&quot;MD&quot;:{&quot;steps&quot;:[],&quot;hidden&quot;:false,&quot;start&quot;:{&quot;at&quot;:&quot;bottom&quot;,&quot;off&quot;:0},&quot;end&quot;:{&quot;at&quot;:&quot;top&quot;,&quot;off&quot;:0}},&quot;SM&quot;:{&quot;steps&quot;:[],&quot;hidden&quot;:true,&quot;start&quot;:{&quot;at&quot;:&quot;bottom&quot;,&quot;off&quot;:0},&quot;end&quot;:{&quot;at&quot;:&quot;top&quot;,&quot;off&quot;:0}},&quot;XS&quot;:{&quot;steps&quot;:[],&quot;hidden&quot;:true,&quot;start&quot;:{&quot;at&quot;:&quot;middle&quot;,&quot;off&quot;:0},&quot;end&quot;:{&quot;at&quot;:&quot;top&quot;,&quot;off&quot;:0}}},&quot;container&quot;:&quot;&quot;}">
@@ -511,6 +566,40 @@
 @media (max-width: 575px) {
   .u-dialog-section-12 .u-dialog-1 {
     width: 340px;
+  }
+
+	.custom-menu-icon {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 9999;
+    transition: transform 0.5s ease, opacity 0.5s ease;
+  }
+
+  .custom-menu-icon.scrolled {
+    transform: translateX(120px); /* Desktop */
+  }
+
+  @media (max-width: 991px) {
+    .custom-menu-icon {
+      top: 15px;
+      right: 15px;
+    }
+
+    .custom-menu-icon.scrolled {
+      transform: translateX(70px); /* Tablet */
+    }
+  }
+
+  @media (max-width: 575px) {
+    .custom-menu-icon {
+      top: 10px;
+      right: 10px;
+    }
+
+    .custom-menu-icon.scrolled {
+      transform: translateX(40px); /* Smartphone */
+    }
   }
 }</style>
 </body></html>
