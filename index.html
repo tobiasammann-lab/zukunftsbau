@@ -74,19 +74,7 @@
     if (gdprConfirmed()) {
       dynamicLoadScript();
     }
-  });
-
-  document.addEventListener("recaptchaLoaded", function () {
-    if (!gdprConfirmed()) return;
-
-    grecaptcha.ready(function () {
-      grecaptcha.execute('6Lcpx28rAAAAAMIW4jCeCOiIBZvgVe68XKAyLu-K', { action: 'contact' }).then(function (token) {
-        let input = document.querySelector('input[name="recaptchaResponse"]');
-        if (input) {
-          input.value = token;
-        }
-      }, showRecaptchaError);
-    });
+  
   });
 </script>
     <script>
