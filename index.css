@@ -1,516 +1,1392 @@
-<!DOCTYPE html>
-<html style="font-size: 16px;" lang="de"><head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-    <meta name="keywords" content="Nature is pleased with simplicity, 01, Awesome Image, 02, Fresh and Creative, Floral Design Studio, Green Atelier, Subscribe">
-    <meta name="description" content="">
-    <title>Zukunftsbau</title>
-   <link rel="stylesheet" href="nicepage.css" media="screen">
-    <link rel="icon" type="image/svg" href="Icon Zukunftsbau.svg">
-<link rel="stylesheet" href="index.css" media="screen">
-    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
-    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
-    <link id="u-header-footer-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
-    <script type="application/ld+json">{
-		"@context": "http://schema.org",
-		"@type": "Organization",
-		"name": "WebSite6530960",
-		"url": "/",
-		"logo": "images/LogoZukunftsbau.svg"
-}</script>
-   <meta name="theme-color" content="#d8dfd0">
-    <meta property="og:title" content="Zukunftsbau – Nachhaltig Bauen für morgen">
-    <meta property="og:description" content="Zukunftsbau entwickelt innovative und nachhaltige Bauprojekte in der Schweiz. Entdecke unsere Vision vom Bauen der Zukunft." />
-    <meta property="og:image" content="https://zukunftsbau.ch/images/LogoZukunftsbau.png" />
-    <meta property="og:url" content="https://zukunftsbau.ch/" />
-	
-    <meta property="og:type" content="website">
-
-    <link rel="canonical" href="/">
-  <meta name="referrer" content="origin"><script>
-  function gdprConfirmed() {
-    return true; // Passe dies an, wenn du echte Cookie-Zustimmung einbauen willst
-  }
-
-  function dynamicLoadScript() {
-    var script = document.createElement('script');
-    script.src = 'https://www.google.com/recaptcha/api.js?render=6Lcpx28rAAAAAMIW4jCeCOiIBZvgVe68XKAyLu-K';
-    script.async = true;
-    document.body.appendChild(script);
-
-    script.onload = function () {
-      let event = new CustomEvent("recaptchaLoaded");
-      document.dispatchEvent(event);
-    };
-  }
-
-  function showRecaptchaError(error) {
-    error = error || '';
-    var formError = document.querySelector('.u-form-send-error');
-    if (formError) {
-      formError.innerText = 'Fehler des Website-Besitzers: ' + error.replace(/:[\s\S]*/, '');
-      formError.style.display = 'block';
-    }
-    console.error('Error in grecaptcha: ', error);
-  }
-
-  document.addEventListener("DOMContentLoaded", function () {
-    // Nur laden, wenn Consent erteilt wurde – bei Bedarf anpassen
-    if (gdprConfirmed()) {
-      dynamicLoadScript();
-    }
-  
-  });
-</script>
-    <script>
-        document.addEventListener("DOMContentLoaded", function () {
-    dynamicLoadScript();
-        });
-    </script>
-   
-<meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
-  <body 
-        <nav class="u-align-center u-menu u-menu-hamburger u-menu-open-right u-offcanvas u-menu-1" role="navigation" data-responsive-from="XL" data-custom-animation="{
-  "animation": {
-    "XXL": {
-      "steps": [{
-        "dist": 0.5,
-        "mx": "530",
-        "my": "295"
-      }],
-      "hidden": false
-    },
-    "XL": {
-      "steps": [{
-        "dist": 0.5,
-        "mx": "480",
-        "my": "250"
-      }],
-      "hidden": false
-    },
-    "LG": {
-      "steps": [{
-        "dist": 0.5,
-        "mx": "300",
-        "my": "180"
-      }],
-      "hidden": false
-    },
-    "MD": {
-      "steps": [{
-        "dist": 0.5,
-        "mx": "200",
-        "my": "100"
-      }],
-      "hidden": false
-    },
-    "SM": {
-      "steps": [{
-        "dist": 0.5,
-        "mx": "100",
-        "my": "50"
-      }],
-      "hidden": false
-    },
-    "XS": {
-      "steps": [{
-        "dist": 0.5,
-        "mx": "60",
-        "my": "30"
-      }],
-      "hidden": false
-    }
-  }
-}'>
-          <div class="menu-collapse">
-            <a class="u-button-style u-custom-color u-nav-link u-text-palette-3-light-1" href="#" style="font-size: calc(1em + 44.5px); background-image: none;">
-              <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 1024 1024" style=""><use xlink:href="#svg-780b"></use></svg>
-              <svg class="u-svg-content" viewBox="0 0 1024 1024" id="svg-780b"><defs id="defs1"></defs><sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="0.83105469" inkscape:cx="513.20329" inkscape:cy="512" inkscape:window-width="2400" inkscape:window-height="1261" inkscape:window-x="2392" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="g1"></sodipodi:namedview><g inkscape:groupmode="layer" inkscape:label="Image" id="g1"><path style="fill:currentColor;fill-opacity:1;stroke-width:1.98023" d="m 254.91273,902.84556 c -2.43353,-2.71255 -3.59431,-12.28264 -5.34319,-44.05216 -1.22887,-22.32269 -4.00031,-58.85782 -6.15877,-81.18915 -7.2265,-74.76485 -7.23049,-77.792 -0.12633,-96.12634 12.683,-32.73227 42.44324,-78.58597 72.28552,-111.37544 14.25403,-15.66176 16.44258,-22.55699 9.23106,-29.08334 -8.51342,-7.70452 -17.21185,-3.79822 -34.02737,15.28103 -22.61338,25.65761 -41.7867,52.27512 -54.18631,75.22444 l -6.13564,11.35593 -6.38743,-56.90106 c -3.51309,-31.29559 -6.35898,-60.65709 -6.32418,-65.2478 0.16673,-22.00203 24.56813,-70.54422 57.77082,-114.9246 16.42763,-21.958 18.29633,-27.46032 11.60024,-34.15641 -6.91266,-6.91267 -14.40379,-5.15657 -24.07423,5.64358 -12.67617,14.15702 -29.98387,38.88009 -43.04535,61.48784 l -11.51916,19.93818 -3.3923,-21.25728 c -4.118,-25.80461 -23.86803,-136.06628 -26.91638,-150.27032 -1.20393,-5.60977 -3.83293,-11.68738 -5.84225,-13.50577 -5.27353,-4.77249 -15.61163,-3.23792 -20.25124,3.00605 -3.70738,4.98935 -3.6728,5.45769 3.21509,43.56492 9.51224,52.62623 17.64557,103.51763 24.82838,155.35452 3.32014,23.9607 6.5479,46.63288 7.17284,50.38264 l 1.13622,6.81771 -7.78689,-9.78804 c -14.84311,-18.65766 -72.15087,-69.26604 -96.505393,-85.22374 -10.591483,-6.93982 -26.945908,2.14828 -24.080288,13.38132 0.738583,2.89514 12.867094,13.8956 32.393601,29.38066 51.04027,40.47638 83.1425,75.21125 95.65641,103.50101 6.13865,13.87746 9.50512,29.64211 13.81732,64.7045 5.67102,46.11086 6.22486,44.3706 -8.68152,27.27901 -23.47757,-26.91927 -74.28558,-72.47012 -85.65614,-76.79319 -8.896505,-3.38245 -18.491043,3.40586 -18.491043,13.08271 0,5.72206 2.273178,8.30376 21.287393,24.17649 42.19083,35.22013 94.70403,93.80068 99.42432,110.91175 1.71883,6.23082 5.40418,44.23289 11.13555,114.82577 1.23821,15.25104 0.50588,16.39828 -7.71844,12.09172 C 191.86025,863.1591 121.91296,796.15267 97.573435,763.56061 25.306152,666.79042 -7.4507227,555.37767 1.8507031,437.98814 8.5110846,353.93011 32.343726,280.11754 76.479518,206.85374 c 14.193211,-23.56025 41.359512,-60.66351 57.492312,-78.522 l 9.61424,-10.64269 20.77179,13.93592 c 26.67753,17.89809 46.9149,34.73338 74.99066,62.38405 78.58618,77.39629 127.91139,172.46156 146.11173,281.60336 5.62413,33.7262 5.05054,107.80285 -1.104,142.57607 -13.13041,74.18713 -43.52774,144.23597 -99.46485,229.21086 l -7.49535,11.38628 h 315.75262 315.7526 l -0.0855,-181.68549 -0.0855,-181.68548 -27.87928,-25.74291 C 816.84039,410.56619 655.27732,263.8071 653.4871,263.14107 c -0.86839,-0.32307 -12.1474,9.10778 -25.0645,20.95745 -23.57404,21.62601 -88.48592,80.88385 -161.8345,147.73817 -21.63577,19.72013 -39.84748,35.85479 -40.47052,35.85479 -0.62303,0 -4.06781,-11.5843 -7.65507,-25.7429 l -6.52228,-25.74291 10.35867,-9.92101 c 23.78746,-22.78244 212.62695,-196.38552 218.07279,-200.47771 7.03584,-5.287 16.25649,-5.73708 23.03633,-1.12447 5.62646,3.82791 28.66521,24.5668 82.12483,73.92667 20.69333,19.10638 57.674,52.96879 82.17927,75.2498 24.50525,22.28099 61.0511,55.67162 81.21297,74.20138 20.16188,18.52978 53.71378,49.12614 74.55979,67.99195 20.84602,18.86581 38.42242,36.24227 39.05862,38.61436 4.7576,17.73897 -5.6959,33.02613 -22.58375,33.02613 -8.36378,0 -12.50796,-2.48816 -28.68145,-17.2203 l -13.86156,-12.62625 -0.99011,176.80652 c -0.74815,133.59957 -1.57828,177.83226 -3.39692,181.00391 -1.32375,2.30857 -5.46836,5.65019 -9.21027,7.42584 -6.20707,2.94545 -36.56379,3.22846 -346.30064,3.22846 -320.82616,0 -339.66816,-0.1905 -342.60607,-3.46539 z M 571.76826,656.64419 c -3.07815,-1.79285 -3.46539,-5.65866 -3.46539,-34.59368 v -32.57529 h 34.65389 34.65392 v 34.65391 34.6539 l -31.18853,-0.0602 c -17.47966,-0.0337 -32.71171,-0.94741 -34.65389,-2.07862 z m 96.53587,-32.51885 v -34.65241 l 35.14898,10e-4 35.14896,10e-4 v 30.82364 c 0,17.46066 -0.88868,32.48417 -2.04989,34.6539 -1.90126,3.55252 -4.45008,3.83008 -35.14896,3.82762 l -33.09909,-10e-4 z M 568.30287,527.49422 c 0,-22.46451 0.72243,-33.00008 2.37626,-34.65391 1.65383,-1.65381 12.18938,-2.37626 34.65391,-2.37626 h 32.27764 v 34.65391 34.65391 h -34.65392 -34.65389 z m 99.10957,-2.37626 -0.17564,-34.65391 h 33.30634 c 23.26464,0 34.02277,0.71642 35.68261,2.37626 1.65383,1.65383 2.37628,12.1894 2.37628,34.65391 v 32.27765 h -35.50702 -35.507 z" id="path1" sodipodi:nodetypes="sssssssscsssssscssssssscssssssssssssssssscssssscccccsssssscsssssssssscssssssscccccsssccccsscccssscccccsccssscccc"></path>
-</g></svg>
-            </a>
-          </div>
-          <div class="u-custom-menu u-nav-container">
-            <ul role="menubar" class="u-nav u-unstyled u-nav-1"><li role="none" class="u-nav-item"><a role="menuitem" class="u-button-style u-nav-link u-palette-1-base" href="./">Start</a>
-</li><li role="none" class="u-nav-item"><a tabindex="-1" role="menuitem" class="u-button-style u-nav-link u-palette-1-base" href="./#block-2" data-page-id="6530961">Beratungsangebot</a>
-</li><li role="none" class="u-nav-item"><a tabindex="-1" role="menuitem" class="u-button-style u-nav-link u-palette-1-base" href="./#referenzen" data-page-id="6530961">Referenzen</a>
-</li><li role="none" class="u-nav-item"><a tabindex="-1" role="menuitem" class="u-button-style u-nav-link u-palette-1-base" href="./#ueber-mich" data-page-id="6530961">Über mich</a>
-</li><li role="none" class="u-nav-item"><a tabindex="-1" role="menuitem" class="u-button-style u-nav-link u-palette-1-base" href="#kontakt">Kontakt</a>
-</li></ul>
-          </div>
-          <div id="cf0a" role="region" aria-label="Menu panel" class="u-custom-menu u-nav-container-collapse">
-            <div class="u-container-style u-custom-color-1 u-inner-container-layout u-opacity u-opacity-var u-sidenav u-sidenav-1">
-              <div class="u-inner-container-layout u-sidenav-overflow">
-                <div class="u-menu-close" tabindex="-1" aria-controls="cf0a" aria-label="Close menu"></div>
-                <ul role="menubar" class="u-align-center u-custom-font u-font-open-sans u-nav u-popupmenu-items u-text-active-palette-2-dark-2 u-text-hover-palette-1-dark-2 u-text-palette-1-dark-3 u-unstyled u-nav-2"><li role="none" class="u-nav-item"><a role="menuitem" class="u-button-style u-nav-link" href="./">Start</a>
-</li><li role="none" class="u-nav-item"><a tabindex="-1" role="menuitem" class="u-button-style u-nav-link" href="./#block-2" data-page-id="6530961">Beratungsangebot</a>
-</li><li role="none" class="u-nav-item"><a tabindex="-1" role="menuitem" class="u-button-style u-nav-link" href="./#referenzen" data-page-id="6530961">Referenzen</a>
-</li><li role="none" class="u-nav-item"><a tabindex="-1" role="menuitem" class="u-button-style u-nav-link" href="./#ueber-mich" data-page-id="6530961">Über mich</a>
-</li><li role="none" class="u-nav-item"><a tabindex="-1" role="menuitem" class="u-button-style u-nav-link" href="#kontakt">Kontakt</a>
-</li></ul>
-              </div>
-            </div>
-            <div class="u-menu-overlay u-opacity u-opacity-var u-palette-1-light-1" style="--opacity: 0.8;"></div>
-          </div>
-          <style class="menu-style">@media (max-width: 1139px) {
-                    [data-responsive-from="LG"] .u-nav-container {
-                        display: none;
-                    }
-                    [data-responsive-from="LG"] .menu-collapse {
-                        display: block;
-                    }
-                }</style>
-        </nav>
-      </div></header>
-    <section class="u-clearfix u-image u-shading u-section-1" id="carousel_fed5">
-      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-sheet-1">
-        <div class="custom-expanded u-align-center u-border-6 u-border-white u-container-align-center u-container-align-center-lg u-container-align-center-md u-container-align-center-xl u-container-style u-group u-opacity u-opacity-15 u-shape-rectangle u-group-1" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-delay="0">
-          <div class="u-container-layout u-valign-middle u-container-layout-1">
-            <h6 class="u-custom-font u-text u-text-font u-text-palette-3-light-1 u-text-1">Mein Beruf - meine Leidenschaft</h6>
-            <h1 class="u-custom-font u-font-playfair-display u-text u-title u-text-2"><b></b>Nachhaltig denken, ganzheitlich handeln
-            </h1>
-            <h6 class="u-custom-font u-text u-text-font u-text-palette-3-light-1 u-text-3">zukunftsbau</h6>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="u-clearfix u-section-2" id="block-2">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="data-layout-selected u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
-          <div class="u-layout">
-            <div class="u-layout-row">
-              <div class="u-container-style u-image u-layout-cell u-size-30 u-image-1" data-image-width="1280" data-image-height="960">
-                <div class="u-container-layout u-valign-top u-container-layout-1"></div>
-              </div>
-              <div class="u-container-align-center u-container-style u-effect-fade u-hover-box u-hover-feature u-layout-cell u-shape-rectangle u-size-30 u-layout-cell-2">
-                <div class="u-back-slide u-container-layout u-valign-middle u-container-layout-2">
-                  <h2 class="u-align-center u-text u-text-default u-text-1">BERATUNG FÜR BAUHERRSCHAFTEN </h2>
-                  <p class="u-align-center u-text u-text-default u-text-2"> Zukunftsbau ist Ihre erste Wahl für innovative und umweltfreundliche Architekturlösungen, die Natur und Nachhaltigkeit in den Mittelpunkt stellen.</p>
-                </div>
-                <div class="u-container-layout u-opacity u-opacity-25 u-over-slide u-palette-3-light-1 u-container-layout-3"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-    </section>
-    <section class="u-align-center u-clearfix u-container-align-center u-palette-1-base u-section-3" id="beratungsangebot">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <div class="data-layout-selected u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1">
-          <div class="u-gutter-0 u-layout">
-            <div class="u-layout-row">
-              <div class="u-align-left u-container-align-left u-container-style u-effect-fade u-hover-box u-hover-feature u-layout-cell u-left-cell u-shape-rectangle u-size-30 u-layout-cell-1">
-                <div class="u-back-slide u-container-layout u-valign-top u-container-layout-1">
-                  <h1 class="u-text u-text-body-alt-color u-text-1">01</h1>
-                  <h2 class="u-custom-font u-font-playfair-display u-text u-text-2"> Machbarkeits- und Konzept<span style="font-weight: 700;">beratung</span>
-                  </h2>
-                  <p class="u-text u-text-3"> Ich unterstütze Sie bereits in der frühen Phase Ihres Bauvorhabens: Mit einer fundierten Einschätzung zu Machbarkeit, Nachhaltigkeit, Budgetrahmen und ersten Konzeptideen – individuell und unabhängig.</p>
-                </div>
-                <div class="u-container-layout u-gradient u-opacity u-opacity-25 u-over-slide u-container-layout-2"></div>
-              </div>
-              <div class="u-align-left u-container-align-left u-container-style u-effect-fade u-hover-box u-hover-feature u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-2">
-                <div class="u-back-slide u-container-layout u-valign-top u-container-layout-3">
-                  <h1 class="u-text u-text-body-alt-color u-text-4">02</h1>
-                  <h2 class="u-custom-font u-font-playfair-display u-text u-text-5"><span style="font-weight: 700;">Material</span>- und System<span style="font-weight: 700;">wahl</span>
-                  </h2>
-                  <p class="u-text u-text-6"> Welches Material passt zu Ihrem Projekt? Ich berate Sie bei der Wahl ökologischer Baustoffe, energieeffizienter Systeme und gesunder Innenraumlösungen – mit Fokus auf Nachhaltigkeit und Alltagstauglichkeit.</p>
-                </div>
-                <div class="u-container-layout u-opacity u-opacity-25 u-over-slide u-palette-3-light-1 u-container-layout-4"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      
-    </section>
-    <section class="u-align-center u-clearfix u-container-align-center u-valign-bottom-lg u-valign-bottom-sm u-valign-bottom-xs u-section-4" id="carousel_a189">
-      <div class="data-layout-selected u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
-        <div class="u-layout">
-          <div class="u-layout-row">
-            <div class="u-align-center-sm u-align-center-xs u-container-style u-effect-hover-zoom u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
-              <div class="u-background-effect u-expanded">
-                <div class="u-background-effect-image u-expanded u-image u-image-1"></div>
-              </div>
-              <div class="u-container-layout u-valign-top-lg u-valign-top-sm u-valign-top-xl u-valign-top-xs u-container-layout-1">
-                <p class="u-align-center-lg u-align-center-md u-align-center-xl u-text u-text-1"> Pflanzen bereichern unser Leben: Sie spenden Schatten, verbessern die Luftqualität und schaffen Lebensraum für Tiere.<br> In meiner Planung spielen sie deshalb eine zentrale Rolle.&nbsp;
-                </p>
-              </div>
-            </div>
-            <div class="u-align-center u-container-align-center u-container-style u-effect-hover-zoom u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
-              <div class="u-background-effect u-expanded">
-                <div class="u-background-effect-image u-expanded u-image u-image-2"></div>
-              </div>
-              <div class="u-container-layout u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-container-layout-2">
-                <h3 class="u-custom-font u-font-playfair-display u-text u-text-2">Grün und <span style="font-weight: 700;">gesund</span>
-                  <br>
-                </h3>
-                <p class="u-text u-text-3"> Pflanzen als Gestaltungselement</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="u-align-center u-clearfix u-container-align-center u-palette-1-base u-section-5" id="sec-0d75">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <div class="data-layout-selected u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1">
-          <div class="u-gutter-0 u-layout">
-            <div class="u-layout-row">
-              <div class="u-align-left u-container-align-left u-container-style u-effect-fade u-hover-box u-hover-feature u-layout-cell u-left-cell u-shape-rectangle u-size-30 u-layout-cell-1">
-                <div class="u-back-slide u-container-layout u-valign-top u-container-layout-1">
-                  <h1 class="u-text u-text-body-alt-color u-text-1">03</h1>
-                  <h2 class="u-custom-font u-font-playfair-display u-text u-text-2"><span style="font-weight: 700;">Begleitung</span> in Planung&nbsp;<br>und Ausführung
-                  </h2>
-                  <p class="u-text u-text-3"> Ich prüfe Baupläne, Offerten und Ausschreibungen auf Stimmigkeit, Plausibilität und Nachhaltigkeit – damit Sie fundierte Entscheidungen treffen können und Ihr Projekt auf einem soliden Fundament steht.</p>
-                </div>
-                <div class="u-container-layout u-gradient u-opacity u-opacity-25 u-over-slide u-container-layout-2"></div>
-              </div>
-              <div class="u-align-left u-container-align-left u-container-style u-effect-fade u-hover-box u-hover-feature u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-2">
-                <div class="u-back-slide u-container-layout u-valign-top u-container-layout-3">
-                  <h1 class="u-text u-text-body-alt-color u-text-4">04</h1>
-                  <h2 class="u-custom-font u-font-playfair-display u-text u-text-5"><span style="font-weight: 700;">Bestand</span> und&nbsp;<br><span style="font-weight: 700;"><span style="font-weight: 400;">Weiter</span>bauen</span>
-                  </h2>
-                  <p class="u-text u-text-6"> Umbauen statt neu bauen? Ich helfe Ihnen, das Potenzial bestehender Bausubstanz zu erkennen – und begleite Sie bei einer behutsamen, zukunftsorientierten Weiterentwicklung Ihrer Immobilie.</p>
-                </div>
-                <div class="u-container-layout u-opacity u-opacity-25 u-over-slide u-palette-3-light-1 u-container-layout-4"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      
-    </section>
-    <section class="u-align-center u-clearfix u-container-align-center u-section-6" id="referenzen">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-expanded-width u-gallery u-layout-grid u-lightbox u-show-text-on-hover u-gallery-1">
-          <div class="u-gallery-inner u-gallery-inner-1">
-            <div class="u-effect-fade u-effect-hover-slide u-gallery-item u-gallery-item-1">
-              <div class="u-back-slide u-back-slide-1" data-image-width="1200" data-image-height="1600">
-                <img class="u-back-image u-effect-hover-slide-direction-down u-expanded u-back-image-1" src="images/WhatsAppImage2025-06-18at11.22.56.jpeg">
-              </div>
-              <div class="u-over-slide u-shading u-over-slide-1"></div>
-            </div>
-            <div class="u-effect-fade u-effect-hover-slide u-gallery-item u-gallery-item-2" data-image-width="1200" data-image-height="1600">
-              <div class="u-back-slide u-back-slide-2">
-                <img class="u-back-image u-effect-hover-slide-direction-down u-expanded u-back-image-2" src="images/WhatsAppImage2025-06-27at10.08.231.jpeg">
-              </div>
-              <div class="u-over-slide u-shading u-over-slide-2"></div>
-            </div>
-            <div class="u-effect-fade u-effect-hover-slide u-gallery-item u-gallery-item-3" data-image-width="999" data-image-height="1500">
-              <div class="u-back-slide u-back-slide-3">
-                <img class="u-back-image u-effect-hover-slide-direction-down u-expanded u-back-image-3" src="images/pexels-photo-4099388.jpeg">
-              </div>
-              <div class="u-over-slide u-shading u-over-slide-3"></div>
-            </div>
-            <div class="u-effect-fade u-effect-hover-slide u-gallery-item u-gallery-item-4" data-image-width="1000" data-image-height="1500">
-              <div class="u-back-slide u-back-slide-4">
-                <img class="u-back-image u-effect-hover-slide-direction-down u-expanded u-back-image-4" src="images/pexels-photo-3916422.jpeg">
-              </div>
-              <div class="u-over-slide u-shading u-over-slide-4"></div>
-            </div>
-            <div class="u-effect-fade u-effect-hover-slide u-gallery-item u-gallery-item-5">
-              <div class="u-back-slide u-back-slide-5" data-image-width="1200" data-image-height="1600">
-                <img class="u-back-image u-effect-hover-slide-direction-down u-expanded u-back-image-5" src="images/WhatsAppImage2025-06-18at11.22.561.jpeg">
-              </div>
-              <div class="u-over-slide u-shading u-over-slide-5"></div>
-            </div>
-            <div class="u-effect-fade u-effect-hover-slide u-gallery-item u-hidden-xs u-gallery-item-6">
-              <div class="u-back-slide u-back-slide-6" data-image-width="1600" data-image-height="1200">
-                <img class="u-back-image u-effect-hover-slide-direction-down u-expanded u-back-image-6" src="images/WhatsAppImage2025-06-27at10.08.23.jpeg">
-              </div>
-              <div class="u-over-slide u-shading u-over-slide-6"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="u-clearfix u-palette-1-base u-section-7" id="ueber-mich">
-      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-sheet-1">
-        <div class="data-layout-selected u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
-          <div class="u-gutter-0 u-layout">
-            <div class="u-layout-col">
-              <div class="u-size-60">
-                <div class="u-layout-row">
-                  <div class="u-size-40">
-                    <div class="u-layout-col">
-                      <div class="u-align-center-xs u-container-style u-layout-cell u-shape-rectangle u-size-60 u-layout-cell-1">
-                        <div class="u-container-layout u-container-layout-1">
-                          <h2 class="u-align-center-sm u-align-left-lg u-align-left-md u-align-left-xl u-custom-font u-font-playfair-display u-text u-text-1"><b>Über mich</b>
-                          </h2>
-                          <p class="u-align-center-sm u-align-center-xs u-text u-text-2">Mein beruflicher Werdegang begann mit der Schreinerlehre – das Arbeiten mit den Händen, die Liebe zum Material und das Verständnis für präzises Handwerk bilden bis heute das Fundament meines Schaffens.<br>
-                            <br>Über die Jahre entwickelte sich aus dieser Basis eine tiefe Begeisterung für Architektur und nachhaltiges Bauen. Diese Leidenschaft führte mich über das Architekturstudium (BA HSLU) bis<br>
-                          </p>
-                          <a href="#popup-fa1a" class="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-border-1 u-border-hover-grey-50 u-btn u-button-style u-dialog-link u-hover-palette-1-light-1 u-palette-3-light-1 u-btn-1">read more</a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="u-size-20">
-                    <div class="u-layout-col">
-                      <div class="u-container-style u-layout-cell u-shape-rectangle u-size-60 u-layout-cell-2">
-                        <div class="u-container-layout u-valign-middle-lg u-container-layout-2">
-                          <img class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-height u-image u-image-default u-preserve-proportions u-image-1" src="images/Portrait2.svg" alt="" data-image-width="1361" data-image-height="1361">
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="u-clearfix u-section-8" id="carousel_7793">
-      <div class="data-layout-selected u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
-        <div class="u-layout">
-          <div class="u-layout-row">
-            <div class="u-container-style u-image u-layout-cell u-left-cell u-size-30 u-image-1">
-              <div class="u-container-layout u-container-layout-1"></div>
-            </div>
-            <div class="u-container-style u-image u-layout-cell u-right-cell u-size-30 u-image-2">
-              <div class="u-container-layout u-container-layout-2">
-                <h2 class="u-align-center u-custom-font u-font-playfair-display u-text u-text-body-alt-color u-text-1">Nachhaltige Materialien</h2>
-                <h6 class="u-align-center u-text u-text-body-alt-color u-text-2">dIE vERWENdung von natürlichen MAterialien ist ein Muss. <br>
-                  <br>
-                  <br>
-                </h6>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    
-    
-    
-    
-    <footer class="u-clearfix u-footer u-grey-80" id="kontakt"><div class="u-clearfix u-sheet u-valign-middle-lg u-sheet-1">
-        <a href="#" class="u-hidden-sm u-hidden-xs u-image u-logo u-image-1" data-image-width="1024" data-image-height="1024">
-          <img src="images/LogoZukunftsbau.svg" class="u-logo-image u-logo-image-1">
-        </a>
-        <div class="u-expanded-width-xs u-form u-form-1">
-          <form action="" class="u-clearfix u-form-spacing-15 u-form-vertical u-inner-form" source="email" name="form" style="padding: 10px;">
-            <div class="u-form-group u-form-name">
-              <label for="name-b777" class="u-label">Name</label>
-              <input type="text" placeholder="Gib deinen Namen ein" id="name-b777" name="name" class="u-input u-input-rectangle" required="">
-            </div>
-            <div class="u-form-email u-form-group">
-              <label for="email-b777" class="u-label">E-Mail</label>
-              <input type="email" placeholder="Gib eine gültige E-Mail-Adresse ein" id="email-b777" name="email" class="u-input u-input-rectangle" required="">
-            </div>
-            <div class="u-form-group u-form-message">
-              <label for="message-b777" class="u-label">Nachricht</label>
-              <textarea placeholder="Gib deine Nachricht ein" rows="4" cols="50" id="message-b777" name="message" class="u-input u-input-rectangle" required=""></textarea>
-            </div>
-            <div class="u-align-center-xs u-align-left-lg u-align-left-md u-align-left-sm u-align-left-xl u-form-group u-form-submit">
-              <a href="#" class="u-border-none u-btn u-btn-submit u-button-style u-hover-palette-1-light-1 u-palette-3-light-1 u-btn-1">Absenden</a>
-              <input type="submit" value="submit" class="u-form-control-hidden">
-            </div>
-            <div class="u-form-send-message u-form-send-success"> Vielen Dank! Deine Nachricht wurde gesendet. </div>
-            <div class="u-form-send-error u-form-send-message"> Deine Nachricht konnte nicht gesendet werden. Bitte behebe die Fehler und versuche es erneut. </div>
-            <input type="hidden" value="" name="recaptchaResponse">
-            <input type="hidden" name="formServices" value="6Lcpx28rAAAAAHxHU0MItVI12ZZqCt_TgbXap5GF">
-            <input type="hidden" name="siteKey" value="6Lcpx28rAAAAAMIW4jCeCOiIBZvgVe68XKAyLu-K">
-          </form>
-        </div>
-        <p class="u-align-center u-custom-font u-font-open-sans u-text u-text-1">Tobias Ammann-Azizi<br><span style="font-weight: 400;">Umwelt- und Energieberater<br>gelernter Schreiner, Architekt BA,&nbsp;<br>MAS nachhaltiges Bauen</span>
-          <br>
-          <br>Pfarrhubel 2<br>6246 Altishofen<br>
-          <br>
-          <a href="tel:+41 (0) 79 385 61 73" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-2">+41 (0) 79 385 61 73</a>
-          <br>
-          <a href="mailto:info@zukunftsbau.ch?subject=Anfrage" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-3">info@zukunftsbau.ch</a>
-        </p>
-      </div></footer>
-    <section class="u-backlink u-clearfix u-grey-80"> This website was created by Tobi</a>
-    </section>
-  <section class="u-black u-clearfix u-container-style u-dialog-block u-opacity u-opacity-70 u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-dialog-section-12" id="popup-fa1a">
-      <div class="u-align-center u-container-align-center u-container-style u-dialog u-palette-1-light-3 u-dialog-1">
-        <div class="u-container-layout u-container-layout-1">
-          <p class="u-align-left u-custom-font u-font-open-sans u-text u-text-default u-text-1"> Mein beruflicher Werdegang begann mit der Schreinerlehre – das Arbeiten mit den Händen, die Liebe zum Material und das Verständnis für präzises Handwerk bilden bis heute das Fundament meines Schaffens.&nbsp;<br>
-            <br>Über die Jahre entwickelte sich aus dieser Basis eine tiefe Begeisterung für Architektur und nachhaltiges Bauen. Diese Leidenschaft führte mich über das Architekturstudium (BA HSLU) bis hin zum Masterstudium im nachhaltigen Bauen (MAS EN Bau), das ich berufsbegleitend absolvierte.&nbsp;<br>
-            <br>Seit mehreren Jahren arbeite ich als Umweltberater mit Schwerpunkt nachhaltige Entwicklung im Bauwesen – zuerst als Architekt und Bauleiter, heute beratend für die Stadt Luzern. Dabei verbinde ich Fachwissen, Erfahrung und eine ganzheitliche Sichtweise.&nbsp;<br>
-            <br>Mein Ziel ist es, Projekte so zu begleiten, dass sie ökologisch, sozial und ökonomisch tragfähig sind – vom Einfamilienhaus bis zur öffentlichen Infrastruktur.&nbsp;<br>
-            <br>Meine Freizeit verbringe ich gerne mit Familie und Freunden, beim Spazieren mit dem Hund oder beim Sanieren unseres eigenen Hauses. Ich lerne gerne Sprachen, interessiere mich für Produktdesign und finde immer wieder neue Inspiration im Alltag.&nbsp;<br>
-            <br>Nachhaltigkeit ist für mich keine Modeerscheinung, sondern eine Haltung – und diese lebe ich beruflich wie privat mit Überzeugung.<br>
-            <br>
-          </p>
-        </div>
-        <button class="u-dialog-close-button u-icon u-icon-circle u-palette-3-light-1 u-text-grey-50 u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 16 16" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-efe9"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 16 16" x="0px" y="0px" id="svg-efe9"><rect x="7" y="0" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.3138 8.0002)" width="2" height="16"></rect><rect x="0" y="7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.3138 8.0002)" width="16" height="2"></rect></svg></button>
-      </div>
-    </section><style>.u-dialog-section-12 .u-dialog-1 {
-  width: 553px;
-  height: auto;
-  min-height: 1375px;
-  margin: 60px auto;
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)), url('images/b-min.jpg');
+  background-position: 50% 50%;
 }
 
-.u-dialog-section-12 .u-container-layout-1 {
-  padding: 0 56px;
+.u-section-1 .u-sheet-1 {
+  min-height: 751px;
 }
 
-.u-dialog-section-12 .u-text-1 {
+.u-section-1 .u-group-1 {
+  width: 730px;
+  min-height: 431px;
+  box-shadow: 0 0 40px 4px rgba(26,26,26,0.8);
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 5deg;
+  --animation-custom_in-scale: 1.05;
+  margin: 160px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 3px;
   font-size: 1.125rem;
-  font-weight: 300;
-  margin: 70px auto 0 0;
+  margin: 0;
 }
 
-.u-dialog-section-12 .u-icon-1 {
-  width: 30px;
-  height: 30px;
-  background-image: none;
-  padding: 6px;
+.u-section-1 .u-text-2 {
+  font-size: 3.75rem;
+  letter-spacing: 1px;
+  margin: 16px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 3px;
+  margin: 24px 209px 0;
 }
 
 @media (max-width: 1199px) {
-  .u-dialog-section-12 .u-dialog-1 {
-    width: 553px;
-    min-height: 250px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 619px;
   }
 
-  .u-dialog-section-12 .u-text-1 {
-    margin-left: 0;
+  .u-section-1 .u-group-1 {
+    transition-duration: 0.5s;
+    transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
   }
 }
 
 @media (max-width: 991px) {
-  .u-dialog-section-12 .u-container-layout-1 {
-    padding-left: 30px;
-    padding-right: 30px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 474px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 98px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 240px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
 @media (max-width: 767px) {
-  .u-dialog-section-12 .u-dialog-1 {
-    width: 540px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 356px;
   }
 
-  .u-dialog-section-12 .u-container-layout-1 {
+  .u-section-1 .u-group-1 {
+    width: 540px;
+    min-height: 464px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1rem;
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 224px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3rem;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 520px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  position: relative;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 400px;
+  background-image: url("images/6016017aa46f866ad5795ca6f6d6ce5d3f527cdfaf22367eaaea6ce58f98dbec8365b526881559fa6e75c944428fbe04b3ceef67c82be54465201b_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 400px;
+  transition-duration: 0.5s;
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 20px auto 0;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 450px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 330px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 330px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 373px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 253px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 600px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 380px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
     padding-left: 10px;
     padding-right: 10px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-dialog-section-12 .u-dialog-1 {
-    width: 340px;
+  .u-section-2 .u-sheet-1 {
+    min-height: 459px;
   }
-}</style>
-</body></html>
+
+  .u-section-2 .u-image-1 {
+    min-height: 239px;
+  }
+}
+
+.u-section-2 .u-layout-cell-2,
+.u-section-2 .u-layout-cell-2:before,
+.u-section-2 .u-layout-cell-2 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-2 .u-layout-cell-2.u-layout-cell-2.u-layout-cell-2:hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-2 .u-layout-cell-2.u-layout-cell-2.u-layout-cell-2.hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 610px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin: 60px auto 60px 0;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 493px;
+  transition-duration: 0.5s;
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 60px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 12.5rem;
+  font-weight: 900;
+  line-height: 0.8;
+  margin: 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 2.25rem;
+  margin: 5px 0 0;
+}
+
+.u-section-3 .u-text-3 {
+  margin: 16px 0 0;
+}
+
+.u-section-3 .u-container-layout-2 {
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to bottom, rgba(249, 231, 155, 0.5), rgba(249, 231, 155, 0.5));
+  background-size: cover;
+  padding: 30px;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 520px;
+  transition-duration: 0.5s;
+  margin-bottom: 28px;
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 60px;
+}
+
+.u-section-3 .u-text-4 {
+  font-size: 12.5rem;
+  font-weight: 900;
+  line-height: 0.8;
+  margin: 0;
+}
+
+.u-section-3 .u-text-5 {
+  font-size: 2.25rem;
+  margin: 5px 0 0;
+}
+
+.u-section-3 .u-text-6 {
+  margin: 16px 0 0;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 519px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 407px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 429px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 190px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 560px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding: 30px;
+  }
+
+  .u-section-3 .u-text-2 {
+    font-size: 1.875rem;
+    margin-top: 0;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-top: 21px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding: 30px;
+  }
+
+  .u-section-3 .u-text-5 {
+    font-size: 1.875rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 290px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 290px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-text-2 {
+    font-size: 3rem;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-text-5 {
+    font-size: 3rem;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 575px;
+  }
+
+  .u-section-3 .u-text-2 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-3 .u-text-5 {
+    font-size: 2.25rem;
+  }
+}
+
+.u-section-3 .u-layout-cell-2,
+.u-section-3 .u-layout-cell-2:before,
+.u-section-3 .u-layout-cell-2 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-3 .u-layout-cell-2.u-layout-cell-2.u-layout-cell-2:hover {
+  transform: rotate(0deg) scale(1.1) !important;
+}
+
+.u-section-3 .u-layout-cell-2.u-layout-cell-2.u-layout-cell-2.hover {
+  transform: rotate(0deg) scale(1.1) !important;
+}
+
+.u-section-3 .u-layout-cell-1,
+.u-section-3 .u-layout-cell-1:before,
+.u-section-3 .u-layout-cell-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-3 .u-layout-cell-1.u-layout-cell-1.u-layout-cell-1:hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-3 .u-layout-cell-1.u-layout-cell-1.u-layout-cell-1.hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+} .u-section-4 {
+  margin-top: 0;
+  margin-bottom: 0;
+  min-height: 688px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-layout-cell-1 {
+  min-height: 688px;
+}
+
+.u-section-4 .u-image-1 {
+  background-position: 0% 72.03%;
+  background-image: url("images/pexelsphoto1029844.jpeg");
+  background-size: cover;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 1.125rem;
+  line-height: 1.8;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  width: 452px;
+  margin: 0 auto;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 688px;
+}
+
+.u-section-4 .u-image-2 {
+  background-position: 50% 100%;
+  background-image: url("images/pexelsphoto1650627.jpeg");
+  background-size: cover;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-4 .u-text-2 {
+  font-size: 3rem;
+  margin: 507px 91px 0;
+}
+
+.u-section-4 .u-text-3 {
+  margin-left: 91px;
+  margin-right: 91px;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-4 {
+    min-height: 567px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 567px;
+    background-position: 0% 72.03%;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: 410px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    background-position: 50% 100%;
+    min-height: 567px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-left: 41px;
+    margin-right: 41px;
+  }
+
+  .u-section-4 .u-text-3 {
+    margin-left: 41px;
+    margin-right: 41px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-4 {
+    min-height: 747px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 747px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-top: 22px;
+    padding-bottom: 22px;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-size: 1rem;
+    width: auto;
+    margin-top: 16px;
+    margin-left: 0;
+    margin-bottom: -8px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 747px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-top: 505px;
+    margin-left: 22px;
+    margin-right: 22px;
+  }
+
+  .u-section-4 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-4 {
+    min-height: 651px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 715px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: 494px;
+    margin-left: auto;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 757px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-left: 38px;
+    margin-right: 38px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-4 {
+    min-height: 410px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 668px;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: 320px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 477px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-left: 23px;
+    margin-right: 23px;
+    font-size: 2.4000000000000004rem;
+  }
+} .u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 610px;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  margin: 60px auto 60px 0;
+}
+
+.u-section-5 .u-layout-cell-1 {
+  min-height: 493px;
+  transition-duration: 0.5s;
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 60px;
+}
+
+.u-section-5 .u-text-1 {
+  font-size: 12.5rem;
+  font-weight: 900;
+  line-height: 0.8;
+  margin: 0;
+}
+
+.u-section-5 .u-text-2 {
+  font-size: 2.25rem;
+  margin: 5px 0 0;
+}
+
+.u-section-5 .u-text-3 {
+  margin: 16px 0 0;
+}
+
+.u-section-5 .u-container-layout-2 {
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to bottom, rgba(249, 231, 155, 0.5), rgba(249, 231, 155, 0.5));
+  background-size: cover;
+  padding: 30px;
+}
+
+.u-section-5 .u-layout-cell-2 {
+  min-height: 520px;
+  transition-duration: 0.5s;
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
+}
+
+.u-section-5 .u-container-layout-3 {
+  padding: 60px;
+}
+
+.u-section-5 .u-text-4 {
+  font-size: 12.5rem;
+  font-weight: 900;
+  line-height: 0.8;
+  margin: 0;
+}
+
+.u-section-5 .u-text-5 {
+  font-size: 2.25rem;
+  margin: 5px 0 0;
+}
+
+.u-section-5 .u-text-6 {
+  margin: 16px 0 0;
+}
+
+.u-section-5 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 519px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 407px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 429px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 190px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 560px;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding: 30px;
+  }
+
+  .u-section-5 .u-text-2 {
+    font-size: 1.875rem;
+    margin-top: 0;
+  }
+
+  .u-section-5 .u-text-3 {
+    margin-top: 21px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-container-layout-3 {
+    padding: 30px;
+  }
+
+  .u-section-5 .u-text-5 {
+    font-size: 1.875rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 290px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 290px;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-text-2 {
+    font-size: 3rem;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-text-5 {
+    font-size: 3rem;
+  }
+
+  .u-section-5 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 575px;
+  }
+
+  .u-section-5 .u-text-2 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-5 .u-text-5 {
+    font-size: 2.25rem;
+  }
+}
+
+.u-section-5 .u-layout-cell-2,
+.u-section-5 .u-layout-cell-2:before,
+.u-section-5 .u-layout-cell-2 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-5 .u-layout-cell-2.u-layout-cell-2.u-layout-cell-2:hover {
+  transform: rotate(0deg) scale(1.1) !important;
+}
+
+.u-section-5 .u-layout-cell-2.u-layout-cell-2.u-layout-cell-2.hover {
+  transform: rotate(0deg) scale(1.1) !important;
+}
+
+.u-section-5 .u-layout-cell-1,
+.u-section-5 .u-layout-cell-1:before,
+.u-section-5 .u-layout-cell-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-5 .u-layout-cell-1.u-layout-cell-1.u-layout-cell-1:hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-5 .u-layout-cell-1.u-layout-cell-1.u-layout-cell-1.hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+} .u-section-6 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 808px;
+}
+
+.u-section-6 .u-gallery-1 {
+  height: 688px;
+  margin: 60px auto;
+}
+
+.u-section-6 .u-gallery-inner-1 {
+  grid-template-columns: repeat(3, auto);
+  --gap: 17px;
+}
+
+.u-section-6 .u-gallery-item-1 {
+  transition-duration: 1.75s;
+  --effect-scale: 1.25;
+}
+
+.u-section-6 .u-back-slide-1 {
+  background-position: 50% 78.05%;
+  transition-duration: 0.5s;
+}
+
+.u-section-6 .u-back-image-1 {
+  object-position: 50% 78.05%;
+  height: calc(100% + 50px);
+  top: -50px;
+}
+
+.u-section-6 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-6 .u-gallery-item-2 {
+  transition-duration: 1.75s;
+  --effect-scale: 1.25;
+}
+
+.u-section-6 .u-back-slide-2 {
+  background-position: 50% 78.05%;
+  transition-duration: 0.5s;
+}
+
+.u-section-6 .u-back-image-2 {
+  object-position: 50% 78.05%;
+  height: calc(100% + 50px);
+  top: -50px;
+}
+
+.u-section-6 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-6 .u-gallery-item-3 {
+  box-shadow: 0 0 0 0 rgba(0,0,0,0);
+  transition-duration: 1.75s;
+  --effect-scale: 1.25;
+}
+
+.u-section-6 .u-back-slide-3 {
+  background-position: 50% 95.06%;
+  transition-duration: 0.5s;
+}
+
+.u-section-6 .u-back-image-3 {
+  object-position: 50% 95.06%;
+  height: calc(100% + 50px);
+  top: -50px;
+}
+
+.u-section-6 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  transition-duration: 0.5s;
+  padding: 20px;
+}
+
+.u-section-6 .u-gallery-item-4 {
+  box-shadow: 0 0 0 0 rgba(0,0,0,0);
+  transition-duration: 1.75s;
+  --effect-scale: 1.25;
+}
+
+.u-section-6 .u-back-slide-4 {
+  background-position: 50% 50%;
+  transition-duration: 0.5s;
+}
+
+.u-section-6 .u-back-image-4 {
+  object-position: 50% 50%;
+  height: calc(100% + 50px);
+  top: -50px;
+}
+
+.u-section-6 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  transition-duration: 0.5s;
+  padding: 20px;
+}
+
+.u-section-6 .u-gallery-item-5 {
+  transition-duration: 1.75s;
+  --effect-scale: 1.25;
+}
+
+.u-section-6 .u-back-slide-5 {
+  background-position: 50% 50%;
+  transition-duration: 0.5s;
+}
+
+.u-section-6 .u-back-image-5 {
+  object-position: 50% 50%;
+  height: calc(100% + 50px);
+  top: -50px;
+}
+
+.u-section-6 .u-over-slide-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-6 .u-gallery-item-6 {
+  transition-duration: 1.75s;
+  --effect-scale: 1.25;
+}
+
+.u-section-6 .u-back-slide-6 {
+  background-position: 50% 50%;
+  transition-duration: 0.5s;
+}
+
+.u-section-6 .u-back-image-6 {
+  object-position: 50% 50%;
+  height: calc(100% + 50px);
+  top: -50px;
+}
+
+.u-section-6 .u-over-slide-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 687px;
+  }
+
+  .u-section-6 .u-gallery-1 {
+    height: 567px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-6 .u-gallery-inner-1 {
+    grid-gap: 17px;
+  }
+
+  .u-section-6 .u-back-image-1 {
+    height: auto;
+  }
+
+  .u-section-6 .u-back-image-2 {
+    height: auto;
+  }
+
+  .u-section-6 .u-back-image-3 {
+    height: auto;
+  }
+
+  .u-section-6 .u-back-image-4 {
+    height: auto;
+  }
+
+  .u-section-6 .u-back-image-5 {
+    height: auto;
+  }
+
+  .u-section-6 .u-back-image-6 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 1097px;
+  }
+
+  .u-section-6 .u-gallery-1 {
+    height: 977px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-6 .u-gallery-inner-1 {
+    grid-template-columns: repeat(2, auto);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 3051px;
+  }
+
+  .u-section-6 .u-gallery-1 {
+    height: 2931px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-6 .u-gallery-inner-1 {
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 1965px;
+  }
+
+  .u-section-6 .u-gallery-1 {
+    height: 1845px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+} .u-section-7 {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: none;
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 433px;
+}
+
+.u-section-7 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 52px;
+}
+
+.u-section-7 .u-layout-cell-1 {
+  min-height: 321px;
+}
+
+.u-section-7 .u-container-layout-1 {
+  padding: 0 20px;
+}
+
+.u-section-7 .u-text-1 {
+  font-size: 2.25rem;
+  margin: 20px 0 0;
+}
+
+.u-section-7 .u-text-2 {
+  position: relative;
+  margin: 20px 0 0;
+}
+
+.u-section-7 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+  margin: 31px auto 0 0;
+}
+
+.u-section-7 .u-layout-cell-2 {
+  min-height: 321px;
+}
+
+.u-section-7 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-7 .u-image-1 {
+  width: 321px;
+  left: auto;
+  right: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 377px;
+  }
+
+  .u-section-7 .u-layout-wrap-1 {
+    margin-top: 198px;
+    margin-bottom: -332px;
+  }
+
+  .u-section-7 .u-layout-cell-1 {
+    min-height: 265px;
+  }
+
+  .u-section-7 .u-layout-cell-2 {
+    min-height: 265px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 212px;
+  }
+
+  .u-section-7 .u-layout-wrap-1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+
+  .u-section-7 .u-layout-cell-1 {
+    min-height: 437px;
+  }
+
+  .u-section-7 .u-text-2 {
+    width: auto;
+    margin-right: 104px;
+  }
+
+  .u-section-7 .u-layout-cell-2 {
+    min-height: 437px;
+  }
+
+  .u-section-7 .u-image-1 {
+    left: -81px;
+    right: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 922px;
+  }
+
+  .u-section-7 .u-layout-cell-1 {
+    min-height: 488px;
+  }
+
+  .u-section-7 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-7 .u-text-1 {
+    font-size: 3rem;
+    width: auto;
+  }
+
+  .u-section-7 .u-text-2 {
+    width: 416px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-7 .u-btn-1 {
+    margin-left: auto;
+  }
+
+  .u-section-7 .u-layout-cell-2 {
+    min-height: 271px;
+  }
+
+  .u-section-7 .u-image-1 {
+    object-position: 67.98% 50%;
+    left: auto;
+    right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 897px;
+  }
+
+  .u-section-7 .u-layout-wrap-1 {
+    margin-top: 50px;
+  }
+
+  .u-section-7 .u-layout-cell-1 {
+    min-height: 498px;
+  }
+
+  .u-section-7 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-7 .u-text-2 {
+    width: 320px;
+  }
+
+  .u-section-7 .u-layout-cell-2 {
+    min-height: 317px;
+  }
+
+  .u-section-7 .u-image-1 {
+    left: 0;
+    right: auto;
+  }
+} .u-section-8 {
+  min-height: 773px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-8 .u-layout-wrap-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-8 .u-image-1 {
+  min-height: 773px;
+  background-image: url("images/pexelsphoto1600130.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-8 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-8 .u-image-2 {
+  min-height: 773px;
+  background-image: url("images/pexelsphoto1622419.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-8 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-8 .u-text-1 {
+  letter-spacing: 0;
+  font-size: 3rem;
+  text-transform: none;
+  font-weight: 400;
+  margin: 50px 0 0;
+}
+
+.u-section-8 .u-text-2 {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 1.125rem;
+  margin: 10px 0 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-8 {
+    min-height: 637px;
+  }
+
+  .u-section-8 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-8 .u-image-1 {
+    min-height: 637px;
+  }
+
+  .u-section-8 .u-image-2 {
+    min-height: 637px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-8 {
+    min-height: 488px;
+  }
+
+  .u-section-8 .u-image-1 {
+    min-height: 488px;
+  }
+
+  .u-section-8 .u-image-2 {
+    min-height: 488px;
+  }
+
+  .u-section-8 .u-container-layout-2 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .u-section-8 .u-text-1 {
+    font-size: 2.25rem;
+    margin-top: 80px;
+  }
+
+  .u-section-8 .u-text-2 {
+    width: auto;
+    margin-top: 221px;
+    margin-bottom: -30px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-8 {
+    min-height: 1464px;
+  }
+
+  .u-section-8 .u-image-1 {
+    min-height: 732px;
+  }
+
+  .u-section-8 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-8 .u-image-2 {
+    min-height: 732px;
+  }
+
+  .u-section-8 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-8 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-8 .u-text-2 {
+    margin: 459px 56px 0;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-8 {
+    min-height: 1076px;
+  }
+
+  .u-section-8 .u-image-1 {
+    min-height: 461px;
+  }
+
+  .u-section-8 .u-image-2 {
+    min-height: 615px;
+  }
+
+  .u-section-8 .u-text-1 {
+    font-size: 2.25rem;
+    width: auto;
+    margin-top: 37px;
+  }
+
+  .u-section-8 .u-text-2 {
+    margin-top: 411px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
